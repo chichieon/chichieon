@@ -45,3 +45,8 @@
 - **클라우드**: Google Cloud Platform (BigQuery, Colab, Storage)
 - **시각화**: Looker Studio, Tableau, Streamlit, Matplotlib
 - **기타**: BeautifulSoup, Selenium, SQLite, ERP 시뮬레이션
+
+---
+
+## 연락처
+ - **이메일** : k0014001@naver.com
